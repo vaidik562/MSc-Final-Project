@@ -1,0 +1,278 @@
+{
+  "Tomato": {
+    "Healthy Plant": {
+      "symptoms": "No major disease pattern detected.",
+      "treatment": "Continue routine care and monitoring.",
+      "medicine": "No Medicine Required",
+      "cost": "£0",
+      "image": null
+    },
+    "Bacterial Spot": {
+      "symptoms": "Small dark water-soaked spots that may develop yellow margins.",
+      "treatment": "Remove badly affected leaves, improve airflow and avoid splashing foliage.",
+      "medicine": "Copper Bactericide",
+      "cost": "£7 - £15",
+      "image": "bactericide.png"
+    },
+    "Early Blight": {
+      "symptoms": "Brown target-like spots, commonly on older leaves.",
+      "treatment": "Remove affected leaves and keep foliage dry.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Late Blight": {
+      "symptoms": "Dark water-soaked lesions that may spread quickly.",
+      "treatment": "Remove infected material promptly and avoid overhead watering.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    },
+    "Leaf Mold": {
+      "symptoms": "Yellow patches on upper leaf surfaces with mould-like growth below.",
+      "treatment": "Improve ventilation and reduce prolonged leaf moisture.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Septoria Leaf Spot": {
+      "symptoms": "Numerous small circular spots with darker borders.",
+      "treatment": "Remove infected lower leaves and reduce leaf wetness.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Spider Mites": {
+      "symptoms": "Fine stippling, bronzing and possible webbing on leaves.",
+      "treatment": "Isolate affected plants and wash leaf undersides.",
+      "medicine": "Neem Oil Spray",
+      "cost": "£6 - £13",
+      "image": "neem_oil.png"
+    },
+    "Target Spot": {
+      "symptoms": "Circular brown lesions that may form concentric rings.",
+      "treatment": "Remove affected tissue and improve airflow.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    },
+    "Yellow Leaf Curl Virus": {
+      "symptoms": "Upward leaf curling, yellowing and reduced growth.",
+      "treatment": "Remove severely affected plants and control whitefly vectors.",
+      "medicine": "Neem Oil Spray",
+      "cost": "£6 - £13",
+      "image": "neem_oil.png"
+    },
+    "Mosaic Virus": {
+      "symptoms": "Mottled light and dark green leaf pattern with distortion.",
+      "treatment": "Remove infected plants and disinfect tools.",
+      "medicine": "No Medicine Required",
+      "cost": "£0",
+      "image": null
+    }
+  },
+  "Apple": {
+    "Healthy Plant": {
+      "symptoms": "No major disease pattern detected.",
+      "treatment": "Continue routine care and monitoring.",
+      "medicine": "No Medicine Required",
+      "cost": "£0",
+      "image": null
+    },
+    "Apple Scab": {
+      "symptoms": "Olive-brown leaf lesions and possible fruit scabbing.",
+      "treatment": "Remove fallen infected leaves and improve airflow.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    },
+    "Black Rot": {
+      "symptoms": "Purple-edged leaf spots and possible fruit rot.",
+      "treatment": "Remove infected tissue and prune dead wood.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Cedar Apple Rust": {
+      "symptoms": "Bright orange-yellow spots on leaves.",
+      "treatment": "Remove nearby alternate host material where practical and improve airflow.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    },
+    "Alternaria Leaf Spot": {
+      "symptoms": "Brown circular leaf lesions that may enlarge.",
+      "treatment": "Remove infected leaves and reduce prolonged wetness.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Brown Spot": {
+      "symptoms": "Brown necrotic spots on leaf tissue.",
+      "treatment": "Prune affected material and keep foliage dry.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Frogeye Leaf Spot": {
+      "symptoms": "Circular spots with purple margins and lighter centres.",
+      "treatment": "Remove infected debris and prune dead wood.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Grey Spot": {
+      "symptoms": "Grey-brown leaf lesions with defined margins.",
+      "treatment": "Remove affected leaves and improve airflow.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    },
+    "Mosaic": {
+      "symptoms": "Patchy light/dark green mosaic-like leaf colouring.",
+      "treatment": "Remove infected tissue and disinfect tools.",
+      "medicine": "No Medicine Required",
+      "cost": "£0",
+      "image": null
+    },
+    "Powdery Mildew": {
+      "symptoms": "White powdery fungal growth on leaves and shoots.",
+      "treatment": "Prune affected growth and improve ventilation.",
+      "medicine": "Sulphur Fungicide",
+      "cost": "£8 - £15",
+      "image": "sulphur_fungicide.png"
+    }
+  },
+  "Grape": {
+    "Healthy Plant": {
+      "symptoms": "No major disease pattern detected.",
+      "treatment": "Continue routine care and monitoring.",
+      "medicine": "No Medicine Required",
+      "cost": "£0",
+      "image": null
+    },
+    "Black Rot": {
+      "symptoms": "Dark leaf lesions and possible fruit rot.",
+      "treatment": "Remove infected material and improve airflow.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Esca (Black Measles)": {
+      "symptoms": "Interveinal striping or scorch-like leaf symptoms.",
+      "treatment": "Prune infected wood and maintain vine hygiene.",
+      "medicine": "Plant Tonic",
+      "cost": "£5 - £12",
+      "image": "plant_tonic.png"
+    },
+    "Leaf Blight": {
+      "symptoms": "Brown angular or irregular necrotic leaf areas.",
+      "treatment": "Remove infected leaves and reduce moisture on foliage.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Downy Mildew": {
+      "symptoms": "Yellow oil-like patches with pale downy growth below.",
+      "treatment": "Improve airflow and keep foliage dry.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Powdery Mildew": {
+      "symptoms": "White powdery coating on leaves or fruit surfaces.",
+      "treatment": "Improve airflow and remove affected tissue.",
+      "medicine": "Sulphur Fungicide",
+      "cost": "£8 - £15",
+      "image": "sulphur_fungicide.png"
+    },
+    "Bacterial Rot": {
+      "symptoms": "Water-soaked or dark necrotic lesions may develop on affected leaf tissue, with local browning and tissue breakdown.",
+      "treatment": "Remove badly affected material, avoid working with wet foliage, improve airflow and sanitation, and monitor nearby leaves for spread.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    }
+  },
+  "Rose": {
+    "Healthy Plant": {
+      "symptoms": "No major disease pattern detected.",
+      "treatment": "Continue routine care and monitoring.",
+      "medicine": "No Medicine Required",
+      "cost": "£0",
+      "image": null
+    },
+    "Black Spot": {
+      "symptoms": "Dark circular spots with fringed margins and yellowing leaves.",
+      "treatment": "Remove infected leaves and avoid wetting foliage.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    },
+    "Downy Mildew": {
+      "symptoms": "Purple-red or brown leaf blotches with pale downy growth below.",
+      "treatment": "Improve airflow and keep foliage dry.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Powdery Mildew": {
+      "symptoms": "White powdery growth on leaves, stems or buds.",
+      "treatment": "Improve airflow and remove badly affected tissue.",
+      "medicine": "Sulphur Fungicide",
+      "cost": "£8 - £15",
+      "image": "sulphur_fungicide.png"
+    },
+    "Rose Mosaic": {
+      "symptoms": "Yellow line, ring or mosaic patterns on foliage.",
+      "treatment": "Remove severely affected plants and disinfect tools.",
+      "medicine": "No Medicine Required",
+      "cost": "£0",
+      "image": null
+    },
+    "Rose Rust": {
+      "symptoms": "Orange rust-coloured pustules, often beneath leaves.",
+      "treatment": "Remove infected leaves and improve airflow.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    },
+    "Insect Damage": {
+      "symptoms": "Holes, chewed margins or visible feeding damage.",
+      "treatment": "Inspect both leaf surfaces and remove visible pests.",
+      "medicine": "Neem Oil Spray",
+      "cost": "£6 - £13",
+      "image": "neem_oil.png"
+    }
+  },
+  "Corn": {
+    "Healthy Plant": {
+      "symptoms": "No major disease pattern detected.",
+      "treatment": "Continue routine care and monitoring.",
+      "medicine": "No Medicine Required",
+      "cost": "£0",
+      "image": null
+    },
+    "Common Rust": {
+      "symptoms": "Small cinnamon-brown to reddish pustules scattered across the leaf surface.",
+      "treatment": "Remove badly affected leaves where practical, improve airflow, avoid prolonged leaf wetness, and monitor new growth.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    },
+    "Gray Leaf Spot": {
+      "symptoms": "Rectangular grey to tan lesions that often run parallel to leaf veins and may merge when severe.",
+      "treatment": "Remove infected debris, improve airflow, avoid overhead watering, and keep foliage as dry as practical.",
+      "medicine": "Copper Fungicide",
+      "cost": "£7 - £14",
+      "image": "copper_fungicide.png"
+    },
+    "Northern Leaf Blight": {
+      "symptoms": "Long cigar-shaped grey-green or tan lesions that expand along the leaf and can reduce healthy leaf area.",
+      "treatment": "Remove heavily affected material, clear infected debris, avoid prolonged leaf wetness, and improve spacing and airflow.",
+      "medicine": "Garden Fungicide",
+      "cost": "£8 - £16",
+      "image": "garden_fungicide.png"
+    }
+  }
+}
