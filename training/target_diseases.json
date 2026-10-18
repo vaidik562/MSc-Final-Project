@@ -1,0 +1,50 @@
+{
+  "tomato": [
+    "Healthy_Plant",
+    "Bacterial_Spot",
+    "Early_Blight",
+    "Late_Blight",
+    "Leaf_Mold",
+    "Septoria_Leaf_Spot",
+    "Spider_Mites",
+    "Target_Spot",
+    "Yellow_Leaf_Curl_Virus",
+    "Mosaic_Virus"
+  ],
+  "apple": [
+    "Healthy_Plant",
+    "Apple_Scab",
+    "Black_Rot",
+    "Cedar_Apple_Rust",
+    "Alternaria_Leaf_Spot",
+    "Brown_Spot",
+    "Frogeye_Leaf_Spot",
+    "Grey_Spot",
+    "Mosaic",
+    "Powdery_Mildew"
+  ],
+  "grape": [
+    "Healthy_Plant",
+    "Black_Rot",
+    "Esca_(Black_Measles)",
+    "Leaf_Blight",
+    "Downy_Mildew",
+    "Powdery_Mildew",
+    "Bacterial_Rot"
+  ],
+  "corn": [
+    "Healthy_Plant",
+    "Common_Rust",
+    "Gray_Leaf_Spot",
+    "Northern_Leaf_Blight"
+  ],
+  "rose": [
+    "Healthy_Plant",
+    "Black_Spot",
+    "Downy_Mildew",
+    "Powdery_Mildew",
+    "Rose_Mosaic",
+    "Rose_Rust",
+    "Insect_Damage"
+  ]
+}

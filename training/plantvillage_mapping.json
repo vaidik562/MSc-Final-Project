@@ -1,0 +1,33 @@
+{
+  "tomato": {
+    "Tomato___healthy": "Healthy_Plant",
+    "Tomato___Bacterial_spot": "Bacterial_Spot",
+    "Tomato___Early_blight": "Early_Blight",
+    "Tomato___Late_blight": "Late_Blight",
+    "Tomato___Leaf_Mold": "Leaf_Mold",
+    "Tomato___Septoria_leaf_spot": "Septoria_Leaf_Spot",
+    "Tomato___Spider_mites Two-spotted_spider_mite": "Spider_Mites",
+    "Tomato___Target_Spot": "Target_Spot",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": "Yellow_Leaf_Curl_Virus",
+    "Tomato___Tomato_mosaic_virus": "Mosaic_Virus"
+  },
+  "apple": {
+    "Apple___healthy": "Healthy_Plant",
+    "Apple___Apple_scab": "Apple_Scab",
+    "Apple___Black_rot": "Black_Rot",
+    "Apple___Cedar_apple_rust": "Cedar_Apple_Rust"
+  },
+  "grape": {
+    "Grape___healthy": "Healthy_Plant",
+    "Grape___Black_rot": "Black_Rot",
+    "Grape___Esca_(Black_Measles)": "Esca_(Black_Measles)",
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": "Leaf_Blight"
+  },
+  "corn": {
+    "Corn_(maize)___healthy": "Healthy_Plant",
+    "Corn_(maize)___Common_rust_": "Common_Rust",
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": "Gray_Leaf_Spot",
+    "Corn_(maize)___Northern_Leaf_Blight": "Northern_Leaf_Blight"
+  },
+  "rose": {}
+}
