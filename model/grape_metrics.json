@@ -1,0 +1,23 @@
+{
+  "plant": "grape",
+  "test_accuracy": 0.9855769230769231,
+  "macro_precision": 0.9873131373131373,
+  "macro_recall": 0.9721950888617557,
+  "macro_f1": 0.9789352624212235,
+  "weighted_f1": 0.985514024697767,
+  "classes": [
+    "Bacterial_Rot",
+    "Black_Rot",
+    "Downy_Mildew",
+    "Esca_(Black_Measles)",
+    "Healthy_Plant",
+    "Leaf_Blight",
+    "Powdery_Mildew"
+  ],
+  "rejection_thresholds": {
+    "min_confidence": 60.0,
+    "min_margin": 20.0,
+    "validation_coverage": 0.9903,
+    "validation_accepted_accuracy": 0.9866
+  }
+}

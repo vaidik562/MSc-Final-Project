@@ -1,0 +1,23 @@
+{
+  "plant": "rose",
+  "test_accuracy": 0.9505376344086022,
+  "macro_precision": 0.9570885732700823,
+  "macro_recall": 0.9622507748509668,
+  "macro_f1": 0.9590260640787627,
+  "weighted_f1": 0.9502214199352168,
+  "classes": [
+    "Black_Spot",
+    "Downy_Mildew",
+    "Healthy_Plant",
+    "Insect_Damage",
+    "Powdery_Mildew",
+    "Rose_Mosaic",
+    "Rose_Rust"
+  ],
+  "rejection_thresholds": {
+    "min_confidence": 60.0,
+    "min_margin": 20.0,
+    "validation_coverage": 0.9665,
+    "validation_accepted_accuracy": 0.9558
+  }
+}

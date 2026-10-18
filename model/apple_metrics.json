@@ -1,0 +1,26 @@
+{
+  "plant": "apple",
+  "test_accuracy": 0.9121561668145519,
+  "macro_precision": 0.9052638864541767,
+  "macro_recall": 0.9121328559063542,
+  "macro_f1": 0.9062585937874283,
+  "weighted_f1": 0.9120275031298095,
+  "classes": [
+    "Alternaria_Leaf_Spot",
+    "Apple_Scab",
+    "Black_Rot",
+    "Brown_Spot",
+    "Cedar_Apple_Rust",
+    "Frogeye_Leaf_Spot",
+    "Grey_Spot",
+    "Healthy_Plant",
+    "Mosaic",
+    "Powdery_Mildew"
+  ],
+  "rejection_thresholds": {
+    "min_confidence": 60.0,
+    "min_margin": 20.0,
+    "validation_coverage": 0.9331,
+    "validation_accepted_accuracy": 0.934
+  }
+}

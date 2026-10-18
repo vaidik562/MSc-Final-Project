@@ -1,0 +1,20 @@
+{
+  "plant": "corn",
+  "test_accuracy": 0.9415807560137457,
+  "macro_precision": 0.9193688088615625,
+  "macro_recall": 0.9218204390687612,
+  "macro_f1": 0.9203970162357713,
+  "weighted_f1": 0.9415536616222038,
+  "classes": [
+    "Common_Rust",
+    "Gray_Leaf_Spot",
+    "Healthy_Plant",
+    "Northern_Leaf_Blight"
+  ],
+  "rejection_thresholds": {
+    "min_confidence": 60.0,
+    "min_margin": 20.0,
+    "validation_coverage": 0.9617,
+    "validation_accepted_accuracy": 0.9729
+  }
+}
